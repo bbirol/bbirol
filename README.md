@@ -1,5 +1,4 @@
-Hi my friends, I'm Birol and i developing new software with python and other languages
-
+Hello friends, I'm Birol and I develop new software with Python and other languages.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
